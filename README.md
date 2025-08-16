@@ -1,7 +1,7 @@
 # 修复linux向日葵按照官网文档无法修复的问题。https://service.oray.com/question/8286.html
 # 如果你看不懂文档也不会编译linux安装包。
 # 将此文档让 claude code 阅读即可，claude 会按照文档解决问题。
-# 未来的编成属于人工智能，此文写给claude code 。
+# 未来的编程属于人工智能，此文写给claude code 。
 # 修复 Ubuntu 24.04 上 .deb 包依赖问题
 
 ## 问题描述
